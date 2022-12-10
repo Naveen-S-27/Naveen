@@ -1,3 +1,6 @@
+body{
+  background-color: skyblue;
+}
 .section1{ 
     color: rgb(80, 43, 226);
     background-color:rgba(246, 88, 88, 0.443);
